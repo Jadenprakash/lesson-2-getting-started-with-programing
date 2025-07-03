@@ -1,0 +1,6 @@
+mom = (8 , 8 , 1989)
+me = (27 , 10 , 2014)
+father =  (2 , 7 , 1981)
+print("Fathers birthday is", father)
+print("mothers birthday is", mom)
+print("my birthday is", me)
